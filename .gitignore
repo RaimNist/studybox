@@ -1,0 +1,7 @@
+﻿/teacher/
+/tests/
+node_modules/
+package.json
+.env
+.env.*
+!.env.example
